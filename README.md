@@ -8,6 +8,8 @@
 <h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://instagram.com/lure_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lure_dev" height="30" width="40" /></a>
+<h3>Or via my discord</h3>
+<h4>Lure#5959</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
